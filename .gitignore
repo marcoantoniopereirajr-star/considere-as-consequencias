@@ -1,0 +1,6 @@
+/target/
+savegame.json
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

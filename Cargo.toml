@@ -1,0 +1,18 @@
+[package]
+name = "considere-as-consequencias"
+version = "1.0.0"
+edition = "2024"
+description = "Considere as Consequências! (1930) — Jogo Interativo de Aventura de Texto em Rust"
+
+[dependencies]
+eframe = "0.31"
+image = { version = "0.25", default-features = false, features = ["jpeg"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+strip = "symbols"
+panic = "abort"

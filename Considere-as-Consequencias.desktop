@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Considere as Consequências! (1930)
+Comment=Livro-Jogo Interativo em Rust (Art Déco 1930)
+Exec="/home/marco/Documentos/Nova pasta/Considere-as-Consequencias"
+Path=/home/marco/Documentos/Nova pasta
+Icon=/home/marco/Documentos/Nova pasta/considere-as-consequencias/assets/icon.svg
+Terminal=false
+Categories=Game;AdventureGame;
+StartupNotify=true
