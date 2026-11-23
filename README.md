@@ -49,7 +49,8 @@
 
 ## Download e Execução (Windows, macOS e Linux)
 
-Os executáveis prontos para rodar (sem precisar compilar) são gerados automaticamente pelo GitHub Actions na aba **[Releases](../../releases)**:
+> **Não precisa instalar Rust, Cargo ou qualquer programação para jogar!**
+> Basta baixar o executável pronto para o seu sistema operacional na aba **[Releases](https://github.com/marcoantoniopereirajr-star/considere-as-consequencias/releases)**, extrair e abrir com duplo clique.
 
 | Sistema Operacional | Arquivo na Release | Como Executar |
 | :--- | :--- | :--- |
