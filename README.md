@@ -135,7 +135,3 @@ considere-as-consequencias/
 - **Tecnologias:** [Rust](https://www.rust-lang.org/), [egui / eframe](https://github.com/emilk/egui), [serde](https://serde.rs/), [image](https://github.com/image-rs/image).
 - **Licença do código:** Distribuído sob a licença **MIT** — veja [LICENSE](LICENSE) para detalhes.
 # considere-as-consequencias
-# considere-as-consequencias
-# considere-as-consequencias
-# considere-as-consequencias
-# considere-as-consequencias
