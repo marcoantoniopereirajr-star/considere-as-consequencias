@@ -84,7 +84,7 @@ Os executáveis prontos para rodar (sem precisar compilar) são gerados automati
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/SEU_USUARIO/considere-as-consequencias.git
+git clone https://github.com/marcoantoniopereirajr-star/considere-as-consequencias.git
 cd considere-as-consequencias
 
 # Rodar os testes automatizados (integridade do grafo, 86 cenas, 43 finais e artes)
@@ -133,6 +133,7 @@ considere-as-consequencias/
 - **Obra original (1930):** *Consider the Consequences!*, de Doris Webster e Mary Alden Hopkins.
 - **Tecnologias:** [Rust](https://www.rust-lang.org/), [egui / eframe](https://github.com/emilk/egui), [serde](https://serde.rs/), [image](https://github.com/image-rs/image).
 - **Licença do código:** Distribuído sob a licença **MIT** — veja [LICENSE](LICENSE) para detalhes.
+# considere-as-consequencias
 # considere-as-consequencias
 # considere-as-consequencias
 # considere-as-consequencias
